@@ -1,3 +1,4 @@
 import utility as ut
 
-print(ut.factorial(5))
+num = int(input("Enter a number - "))
+print(ut.factorial(num))
